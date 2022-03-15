@@ -1,0 +1,53 @@
+<style>
+body { 
+  
+}
+
+
+#main {
+  background-color: #EEEEEE;
+  font-size: 16px;
+  text-align: center;
+}
+
+#title {
+  font-size: 40px;
+  padding: 20px 0px 20px;
+}
+
+#img-div {
+  margin: 10px 10px 10px 10px;
+  background-color: #FFFFFF;
+}
+
+#img {
+  max-width: 100%;
+  height: auto;
+}
+
+#img-caption {
+  padding: 20px 0px 20px;
+}
+
+#tribute-info {
+  text-align: left;
+  max-width: 500px;
+  margin: 0px auto 0px;
+}
+
+.list {
+  padding-bottom: 10px;
+}
+
+.quote {
+  text-align: left;
+  font-style: italic;
+  padding-bottom: 10px;
+  margin: 0px auto 0px;
+  max-width: 500px;
+}
+#footer {
+  font-weight: strong;
+  text-align: center;
+}
+</style>
